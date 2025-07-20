@@ -6,6 +6,6 @@
 > Mi recomendacion es que le den con todo desde el dia 0.
 
 ## TPs - Enunciados (página de la cátedra)
-[TP0](https://github.com/Igris-1/is2_tp1) - [Enunciado](https://ingenieria-del-software-2.github.io/tps/2025/1/individual/)
+[TP1](https://github.com/Igris-1/is2_tp1) - [Enunciado](https://ingenieria-del-software-2.github.io/tps/2025/1/individual/)
 
-[TP1](https://github.com/ClassConnect-2025C1) - [Enunciado](https://ingenieria-del-software-2.github.io/tps/2025/1/trabajo-practico/)
+[TP2](https://github.com/ClassConnect-2025C1) - [Enunciado](https://ingenieria-del-software-2.github.io/tps/2025/1/trabajo-practico/)
